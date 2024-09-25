@@ -1,4 +1,4 @@
-# praktikum 3 - Linuxi command line.
+# praktikum 2 - Linuxi command line.
 
 ![image](https://github.com/user-attachments/assets/b0bdef35-b18a-446c-b510-c4eedda901b4)
 
