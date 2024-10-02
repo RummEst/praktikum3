@@ -1,4 +1,6 @@
 # praktikum 2 - Linuxi command line.
+> [ÕIGE LINK](https://github.com/RummEst/opsys2025/blob/main/prakt2.md)
+
 
 ![image](https://github.com/user-attachments/assets/b0bdef35-b18a-446c-b510-c4eedda901b4)
 
